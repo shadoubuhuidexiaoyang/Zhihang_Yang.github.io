@@ -8,17 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of Information Engineering](https://xxgc.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/). My research interest includes path planning and computer vision.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-
-
-              
-          
+I am very fortunate to be advised by [Prof. Zhang](https://cxcy.nxu.edu.cn/info/1425/18985.htm) of Ningxia Key Laboratory of Artificial Intelligence and Information Security for Channeling Computing Resources from the East to the West from [School of Information Engineering](https://xxgc.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/). 
 
 A data-driven personal website
 ======
