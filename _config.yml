@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhihang Yang's home page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -85,9 +85,9 @@ author:
   bio              : "A junior student in the Department of Network Engineering, College of Information Engineering, Ningxia University."
   location         : "Xiangyang, Hubei"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : zhihangyang03@foxmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
